@@ -1,0 +1,20 @@
+{
+  "name": "PlusAnime.com",
+  "short_name": "PlusAnime",
+  "start_url": "https://www.plusanime.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Yuucito/blogger/refs/heads/main/192x192.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Yuucito/blogger/refs/heads/main/512x512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
